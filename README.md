@@ -265,8 +265,12 @@ https://youtu.be/KXpCrxCrMho
 References
 
 Azuma, R. (2015). Location-Based Mixed and Augmented Reality Storytelling. Fundamentals of Wearable Computers and Augmented Reality, Woodrow Barfield, 11(2), 259–276.
+
 Barfield, W. (2015). Fundamentals of Wearable Computers and Augmented Reality, second edition. CRC Press.
+
 Carmigniani, J., Furht, B., Anisetti, M., Ceravolo, P., Damiani, E., & Ivkovic, M. (2010). Augmented reality technologies, systems, and applications. Multimedia Tools and Applications, 51(1), 341–377. https://doi.org/10.1007/s11042-010-0660-6
+
 Dixon, S. J. (n.d.). Biggest social media platforms by users 202. Statista. Retrieved June 23, 2025, from https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/
+
 Savannah: Personality, Diet, Grooming, Training. (n.d.). Petplan.Co.Uk. Retrieved June 23, 2025, from https://www.petplan.co.uk/cat-insurance/cat-breeds/savannah.html
 
